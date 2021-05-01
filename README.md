@@ -1,4 +1,5 @@
-# README
+# DMM WEBCAMPコンテンツ【応用課題フェーズ】
+DMM WEBCAMPの学習コンテンツ課題1【Bookers1を完成させよう(デバッグ形式)】です。
 
 This README would normally document whatever steps are necessary to get the
 application up and running.
